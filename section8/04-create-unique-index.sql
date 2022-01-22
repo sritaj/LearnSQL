@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX salaryidx1 ON users (salary);
