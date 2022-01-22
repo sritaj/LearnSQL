@@ -1,0 +1,1 @@
+select customer_name, product_name from (select * from sales where volume >1000) as base_result;

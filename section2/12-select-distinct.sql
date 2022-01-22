@@ -1,0 +1,1 @@
+select distinct(customer_name) from sales;
