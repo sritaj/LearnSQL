@@ -1,3 +1,5 @@
+![SQL Image](https://www.datocms-assets.com/14946/1627286560-sql-databases.png?auto=format)
+
 # SQL
 
 Repository containing examples on core SQL concepts using MySQL and PostgreSQL clients
