@@ -14,7 +14,7 @@ Repository containing examples on core SQL concepts using MySQL and PostgreSQL c
 
 1. Install MySQL on local machine
 2. Install PostgreSQL on local machine
-3. Install **[SQL Tools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)** Visual Studio Code Extension
+3. Install **[SQL Tools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)** Visual Studio Code Extension -- To connect with the databases and executing commands directly from  Visual Studio Code
 
 ## Contents
 
