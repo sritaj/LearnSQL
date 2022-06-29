@@ -1,4 +1,4 @@
-![SQL Image](https://www.datocms-assets.com/14946/1627286560-sql-databases.png?auto=format)
+<img src="https://www.datocms-assets.com/14946/1627286560-sql-databases.png?auto=format" alt="SpringBoot JPA Hibernate" style="height: 300px; width:650px;"/>
 
 # SQL
 
